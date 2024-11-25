@@ -1,6 +1,11 @@
 # Summary
 A method in recommendation systems that uses the ARP (Automatic Personality Recognition) methodology to mathematically classify individuals based on their characteristics and similarities to others.
 
+# Keynote
+![NLP_personality 001](https://github.com/user-attachments/assets/fe203699-c3af-46fe-a33b-5076131b07b1)
+![NLP_personality 002](https://github.com/user-attachments/assets/26188c8d-baa0-4b2e-b18e-a776dae91814)
+![NLP_personality 003](https://github.com/user-attachments/assets/b17dd141-c21d-44bd-9810-44881a1ae1d9)
+![NLP_personality 004](https://github.com/user-attachments/assets/eb572317-0f13-46fd-84a7-1fb6e014391b)
 
 ## Reference(APA Style)
 1. Ning, H., Dhelim, S., & Aung, N. (2019). PersoNet: Friend recommendation system based on big-five personality traits and hybrid filtering. IEEE Transactions on Computational Social Systems, 6(3), 394-402.
